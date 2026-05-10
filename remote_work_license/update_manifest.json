@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.05.11.8",
+    "version":  "2026.05.11.9",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Fix Blog Link Checker and Hotkey launch by verifying per-program runtimes and launching Hotkey through its prepared Python environment."
+    "notes":  "Fix lingering screen watermark cleanup and add a manual watermark close shortcut."
 }
