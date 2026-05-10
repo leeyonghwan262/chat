@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.05.11.9",
+    "version":  "2026.05.11.10",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Fix lingering screen watermark cleanup and add a manual watermark close shortcut."
+    "notes":  "Disable on-screen watermark by default while keeping program launch audit logs."
 }
