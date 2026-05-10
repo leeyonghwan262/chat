@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.10.2",
+    "version":  "2026.05.10.3",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Use portable Python runtime fallback so employees do not need to install Python manually."
+    "notes":  "Bundle portable Python package so first install works without employee Python installation."
 }
