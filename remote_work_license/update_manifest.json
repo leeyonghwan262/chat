@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.11.6",
+    "version":  "2026.05.11.7",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Use the employee-installed Python 3.11.9 directly and stop auto-installing managed Python runtimes."
+    "notes":  "Make employee CMD launchers ASCII/CRLF and call Windows PowerShell by full path."
 }
