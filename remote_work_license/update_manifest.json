@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.11.5",
+    "version":  "2026.05.11.6",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Install the managed Python runtime under Public Documents to avoid Korean or chat-download path installer failures."
+    "notes":  "Use the employee-installed Python 3.11.9 directly and stop auto-installing managed Python runtimes."
 }
