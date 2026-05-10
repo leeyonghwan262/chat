@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.10.1",
+    "version":  "2026.05.10.2",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Fix first-install Python runtime setup when the employee folder path contains spaces or Korean characters."
+    "notes":  "Use portable Python runtime fallback so employees do not need to install Python manually."
 }
