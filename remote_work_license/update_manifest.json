@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.10.6",
+    "version":  "2026.05.10.7",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Add Naver Blog Link Checker with central login and first-install dependency setup."
+    "notes":  "Fix employee PC portability by requiring a Tkinter-capable Python runtime, rebuilding old portable virtual environments, and bundling hotkey ADB tools."
 }
