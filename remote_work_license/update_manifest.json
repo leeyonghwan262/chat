@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.06.4",
+    "version":  "2026.05.10.1",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Remote Work Access update manifest. If the repository is private, replace zip_url with a public download URL before increasing version."
+    "notes":  "Fix first-install Python runtime setup when the employee folder path contains spaces or Korean characters."
 }
