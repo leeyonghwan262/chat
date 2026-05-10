@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.11.4",
+    "version":  "2026.05.11.5",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Force the employee package to use the app-local Python runtime and keep launcher windows open when startup fails."
+    "notes":  "Install the managed Python runtime under Public Documents to avoid Korean or chat-download path installer failures."
 }
