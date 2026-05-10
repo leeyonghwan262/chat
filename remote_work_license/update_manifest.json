@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.10.5",
+    "version":  "2026.05.10.6",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Repair first-install when pip leaves broken temporary setuptools artifacts in a partial virtual environment."
+    "notes":  "Add Naver Blog Link Checker with central login and first-install dependency setup."
 }
