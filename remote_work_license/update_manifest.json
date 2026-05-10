@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.10.3",
+    "version":  "2026.05.10.4",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Bundle portable Python package so first install works without employee Python installation."
+    "notes":  "Remove leftover per-program password gates and rebuild DataLab, Prompt Generator, and Hotkey launch targets."
 }
