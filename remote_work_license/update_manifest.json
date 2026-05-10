@@ -1,5 +1,5 @@
 {
-    "version":  "2026.05.11.1",
+    "version":  "2026.05.11.2",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Add launcher logs so employee PCs show errors instead of closing the CMD window silently."
+    "notes":  "Add launcher logs and switch update checks to the non-cached GitHub raw URL."
 }
