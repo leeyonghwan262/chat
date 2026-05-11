@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.05.11.11",
+    "version":  "2026.05.11.12",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Refresh latest packaged programs and add per-account daily audit logs with optional GitHub upload."
+    "notes":  "Refresh latest packaged programs and add per-account daily audit logs with optional GitHub upload setup."
 }
