@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.05.12.3",
+    "version":  "2026.05.13.1",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Number and color employee launchers and add folder file automation."
+    "notes":  "Use black console launchers with colored executable icons."
 }
