@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.05.12.1",
+    "version":  "2026.05.12.2",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Fix Edge cookie cleanup on Windows without wmic and add remembered login for 7 days."
+    "notes":  "Use launcher-only employee package that downloads the latest app from GitHub."
 }
