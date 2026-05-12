@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.05.12.2",
+    "version":  "2026.05.12.3",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Use launcher-only employee package that downloads the latest app from GitHub."
+    "notes":  "Number and color employee launchers and add folder file automation."
 }
