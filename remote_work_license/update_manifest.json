@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.05.11.13",
+    "version":  "2026.05.12.1",
     "zip_url":  "https://github.com/leeyonghwan262/Remote_Work_Access/archive/refs/heads/main.zip",
-    "notes":  "Remove PC activity monitoring and keep only login and program launch audit logs."
+    "notes":  "Fix Edge cookie cleanup on Windows without wmic and add remembered login for 7 days."
 }
