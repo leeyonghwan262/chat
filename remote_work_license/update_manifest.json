@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2026.05.14.4",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.14.4.zip",
-    "sha256":  "1bd84d3ca527e2e409b5bc38d8f4c85f07e015e544eb97e1edcf140a31f40761",
-    "notes":  "Improve employee install diagnostics and GitHub fallback updates."
+    "version":  "2026.05.14.5",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.14.5.zip",
+    "sha256":  "d00a62c5aa2cf3b2c7c884c17b2df088eeb344e3acd8523f89943bcb4907deb5",
+    "notes":  "Improve employee install diagnostics and raw manifest fallback."
 }
