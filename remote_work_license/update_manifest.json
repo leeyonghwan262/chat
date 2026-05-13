@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2026.05.14.5",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.14.5.zip",
-    "sha256":  "d00a62c5aa2cf3b2c7c884c17b2df088eeb344e3acd8523f89943bcb4907deb5",
-    "notes":  "Improve employee install diagnostics and raw manifest fallback."
+    "version":  "2026.05.14.6",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.14.6.zip",
+    "sha256":  "00793d175bcbf852dcb20aacba172fc0600121ec2cdd4b8eed5fd71967425a92",
+    "notes":  "Fix Blog Auto preflight for LocalAppData install path."
 }
