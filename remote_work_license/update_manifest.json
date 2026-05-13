@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2026.05.14.3",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.14.3.zip",
-    "sha256":  "2afb582c02dc9465f7ffb0e428397d3f148ed103f63bb7979931ccbed793e5db",
-    "notes":  "Improve employee PC install diagnostics and security-policy guidance."
+    "version":  "2026.05.14.4",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.14.4.zip",
+    "sha256":  "1bd84d3ca527e2e409b5bc38d8f4c85f07e015e544eb97e1edcf140a31f40761",
+    "notes":  "Improve employee install diagnostics and GitHub fallback updates."
 }
