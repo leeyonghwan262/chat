@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2026.05.14.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.14.1.zip",
-    "sha256":  "1c8146c66a858e900d8b4e1c71b5c224973881adecf4e8d32f30e64247f40861",
-    "notes":  "Fix employee launcher manifest parsing and managed Python first-run install."
+    "version":  "2026.05.14.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.14.2.zip",
+    "sha256":  "1d15f55fd9b815346f0fdd50d9baf4ef293eedbe2eb9e1db97b7983461b6148d",
+    "notes":  "Apply latest Blog Auto update."
 }
