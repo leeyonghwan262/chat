@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2026.05.13.2",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.13.2.zip",
-    "sha256":  "b9286486c49bc7c4bc5a1b670a142d1dbd25286e010b21a40cd547f8cf43a83d",
-    "notes":  "Use public updater package URL for employee auto-downloads."
+    "version":  "2026.05.13.3",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.13.3.zip",
+    "sha256":  "0126b8b8fc1186f67aa1e2275c8e6690bd69ab443aa7335482e1946f5f3396d2",
+    "notes":  "Fix employee launcher manifest parsing on Windows PowerShell."
 }
