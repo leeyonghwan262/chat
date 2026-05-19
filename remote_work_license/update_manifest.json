@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2026.05.18.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.18.1.zip",
-    "sha256":  "c5bdb9ead5804ff9e60d497a0576b9586afdbc628ded74062e8c488315648aae",
-    "notes":  "Update Blog Auto and use Remote Work central login only."
+    "version":  "2026.05.20.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.20.1.zip",
+    "sha256":  "03829fe61e3245511e223bccbc8f08396a53e1d5fa38d884ab78ffa535e9fdcf",
+    "notes":  "Update Blog Auto and keep authentication on Remote Work central login."
 }
