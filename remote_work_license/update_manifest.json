@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2026.05.25.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.25.1.zip",
-    "sha256":  "28cb3cfa312028aea8813072cf6168795ce5e4925fb2a39ff634a8b50cf6771f",
-    "notes":  "Apply latest Blog Auto retry, status, and keyword controls."
+    "version":  "2026.05.25.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.25.2.zip",
+    "sha256":  "3f757f9b10fffb64fa7cc507abcf9f62183def074febcbcd6a26fbf66920b609",
+    "notes":  "Use Blog Auto appdata_templates.json as the GitHub template source."
 }
