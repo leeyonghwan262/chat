@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2026.05.27.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.27.1.zip",
-    "sha256":  "4b0329c6510082b40c38480f62ce2949f811e41ce5d92359f18340abc08400c7",
-    "notes":  "Apply latest Blog Auto browser/runtime updates and shared login flow."
+    "version":  "2026.05.27.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.05.27.2.zip",
+    "sha256":  "64620a78676650949a8f32a7c97565f3c5fe4bd13ebca4171d05e85c2961b717",
+    "notes":  "Apply latest Blog Auto browser slot and caution-field updates with shared login flow."
 }
