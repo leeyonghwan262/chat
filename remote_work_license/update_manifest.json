@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.2",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.2.zip",
-    "sha256":  "574576e730a12f72db9c0fd5184dda3e93d131fe49527c26a9ef4193006d5455",
-    "notes":  "Apply latest Blog Auto updates and templates with shared login flow."
+    "version":  "2026.06.04.3",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.3.zip",
+    "sha256":  "dab623847637c40c799712b563bf9cb70ce79a7b6367e3195e9cdbc9697f3b93",
+    "notes":  "Add BlogCheck to the shared remote work launcher."
 }
