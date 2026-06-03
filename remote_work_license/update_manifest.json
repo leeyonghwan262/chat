@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.1.zip",
-    "sha256":  "0badd663339e9738821f84dfe8a50faf41d3cb42911ec954f44ae187000b1fac",
-    "notes":  "Add a shared login program router for employee launchers."
+    "version":  "2026.06.04.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.2.zip",
+    "sha256":  "574576e730a12f72db9c0fd5184dda3e93d131fe49527c26a9ef4193006d5455",
+    "notes":  "Apply latest Blog Auto updates and templates with shared login flow."
 }
