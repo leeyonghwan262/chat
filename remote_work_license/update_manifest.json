@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.14",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.14.zip",
-    "sha256":  "091ffc882a778fea3b382b76593465bd522ac69ec359e6efaf002f48a09e7020",
-    "notes":  "Allow Blog Auto smoke tests to pass from the RemoteWorkAccess AppData install path."
+    "version":  "2026.06.04.15",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.15.zip",
+    "sha256":  "7e9b4b54b43c865a5d379600781737513f1b674d94d0ab96402bf31763aed555",
+    "notes":  "Refresh Blog Auto layout and algorithm ordering while preserving remote-work login."
 }
