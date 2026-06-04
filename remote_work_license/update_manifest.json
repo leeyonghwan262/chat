@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.12",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.12.zip",
-    "sha256":  "1f5e09488809e16d1d0e3a74522c06c0d4ad95d7ac1779824db0ba7d33160661",
-    "notes":  "Show the login and program router GUI from the hidden launcher and improve compact tile layout."
+    "version":  "2026.06.04.13",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.13.zip",
+    "sha256":  "f17291674b048f85c7108162f7476d683a8ea078d9f3c2d424a9d788df7836fb",
+    "notes":  "Fix Blog Auto launch after first-run setup and include the latest templates."
 }
