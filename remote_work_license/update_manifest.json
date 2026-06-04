@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.17",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.17.zip",
-    "sha256":  "879a5157658dcef112c8414fbb32a67fd9c94e01b3b7c696ddfb3089c897c33f",
-    "notes":  "Use a GUI employee launcher with progress, keep the Program Router as its own taskbar app, and update Blog Auto script prompt routing."
+    "version":  "2026.06.04.18",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.18.zip",
+    "sha256":  "1488bab2fee6cb93cb7f2122a0c5bc049a9e972f40f4cb30fc0e637cbb8474a5",
+    "notes":  "Fix GUI launcher router startup when no router arguments are needed."
 }
