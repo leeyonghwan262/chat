@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.9",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.9.zip",
-    "sha256":  "1b78736d63b3e118a5c60fd1393988fccabc1410026a2dfb36c8ce1820fab77e",
-    "notes":  "Fix program router topmost timer null exception."
+    "version":  "2026.06.04.10",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.10.zip",
+    "sha256":  "4b261b7078b904f72bfe72ccbc2c3d707d730ac1322ad103a438b5e93ba3ac31",
+    "notes":  "Show first-run package download progress percentage."
 }
