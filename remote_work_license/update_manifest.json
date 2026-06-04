@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.18",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.18.zip",
-    "sha256":  "1488bab2fee6cb93cb7f2122a0c5bc049a9e972f40f4cb30fc0e637cbb8474a5",
-    "notes":  "Fix GUI launcher router startup when no router arguments are needed."
+    "version":  "2026.06.05.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.05.1.zip",
+    "sha256":  "4589765ff6f6074161aaec033cbd5f1aee3bd3672c243a4113224b6268180250",
+    "notes":  "Update Blog Auto link collection workflow and bundled templates while keeping remote-work session login."
 }
