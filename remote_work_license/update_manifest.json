@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.6",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.6.zip",
-    "sha256":  "aad5441d4367d0144a975aad856d2feb36de0898a93427cb627d0b7be82e4cc1",
-    "notes":  "Keep one visible employee launcher and move the individual shortcuts into the internal folder."
+    "version":  "2026.06.04.7",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.7.zip",
+    "sha256":  "611102fc9a1f4b4be61a6aa0ad13980f90659ee9ddba85b9c4197b4aafdac8b6",
+    "notes":  "Update Blog Auto engine and templates while keeping central login session launch."
 }
