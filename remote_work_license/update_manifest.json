@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.11",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.11.zip",
-    "sha256":  "1ea478e105b0696ea66d53a1e0e7248f419b83da1f8a0849bfd9abb6c2cb3e48",
-    "notes":  "Show launcher status while checking updates and opening router."
+    "version":  "2026.06.04.12",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.12.zip",
+    "sha256":  "1f5e09488809e16d1d0e3a74522c06c0d4ad95d7ac1779824db0ba7d33160661",
+    "notes":  "Show the login and program router GUI from the hidden launcher and improve compact tile layout."
 }
