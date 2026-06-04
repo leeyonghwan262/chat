@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.16",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.16.zip",
-    "sha256":  "8312e66b07c53c0cd976551a22f475f68b9ed1d9fc9e3c210038badc091f23ef",
-    "notes":  "Use a standalone Program Router EXE so the router pins to the taskbar as its own app."
+    "version":  "2026.06.04.17",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.17.zip",
+    "sha256":  "879a5157658dcef112c8414fbb32a67fd9c94e01b3b7c696ddfb3089c897c33f",
+    "notes":  "Use a GUI employee launcher with progress, keep the Program Router as its own taskbar app, and update Blog Auto script prompt routing."
 }
