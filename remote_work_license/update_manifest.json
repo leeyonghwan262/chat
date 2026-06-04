@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.15",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.15.zip",
-    "sha256":  "7e9b4b54b43c865a5d379600781737513f1b674d94d0ab96402bf31763aed555",
-    "notes":  "Refresh Blog Auto layout and algorithm ordering while preserving remote-work login."
+    "version":  "2026.06.04.16",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.16.zip",
+    "sha256":  "8312e66b07c53c0cd976551a22f475f68b9ed1d9fc9e3c210038badc091f23ef",
+    "notes":  "Use a standalone Program Router EXE so the router pins to the taskbar as its own app."
 }
