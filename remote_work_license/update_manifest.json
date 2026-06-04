@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.05.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.05.1.zip",
-    "sha256":  "4589765ff6f6074161aaec033cbd5f1aee3bd3672c243a4113224b6268180250",
-    "notes":  "Update Blog Auto link collection workflow and bundled templates while keeping remote-work session login."
+    "version":  "2026.06.05.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.05.2.zip",
+    "sha256":  "bc78334770fd33916450775250f8aff1ac8dc32962879b60fdff7e6b6b326268",
+    "notes":  "Refresh Blog Auto runtime templates from the latest local template database."
 }
