@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.04.4",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.4.zip",
-    "sha256":  "213bd1ac981f0d8d473122a933195a0ab7ad849be63a08a16ebeeb82c2816992",
-    "notes":  "Allow Blog Auto preflight in the managed employee AppData install path."
+    "version":  "2026.06.04.5",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.04.5.zip",
+    "sha256":  "8fdddcb4002f1a660c84eff6a5b394bc042f38f0b2dcf30faaa52e76aee53140",
+    "notes":  "Move the employee PowerShell launcher into an internal folder so staff run only exe launchers."
 }
