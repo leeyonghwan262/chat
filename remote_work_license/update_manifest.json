@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.07.4",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.07.4.zip",
-    "sha256":  "f5d6c13d2dc21c3f754aef65e0f45698ade71707feec55c6dd19c0dbe9557242",
-    "notes":  "Update Blog Auto program files and publish the latest appdata_templates.json while keeping remote-work login session access."
+    "version":  "2026.06.08.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.08.1.zip",
+    "sha256":  "322def9407ca494401eed7058e45e55bb4b3b8a0f5dd2fce558eec8427e4ae22",
+    "notes":  "Update Blog Auto transfer export, staged rerun, and retry handling while keeping remote-work login session access."
 }
