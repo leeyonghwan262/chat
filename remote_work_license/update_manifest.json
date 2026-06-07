@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.07.3",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.07.3.zip",
-    "sha256":  "32e2d9a22852a3a0a85acb3799ebc932832743aaf75e422dc1415f7f29cf2344",
-    "notes":  "Update Blog Auto Excel row add workflow to add five rows at a time while keeping remote-work login session access."
+    "version":  "2026.06.07.4",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.07.4.zip",
+    "sha256":  "f5d6c13d2dc21c3f754aef65e0f45698ade71707feec55c6dd19c0dbe9557242",
+    "notes":  "Update Blog Auto program files and publish the latest appdata_templates.json while keeping remote-work login session access."
 }
