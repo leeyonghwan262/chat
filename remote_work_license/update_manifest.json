@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.07.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.07.1.zip",
-    "sha256":  "833e1442182187eb5ea7abf8252025c0d3ea91bcb98abd272df3f0c09f9f5ff0",
+    "version":  "2026.06.07.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.07.2.zip",
+    "sha256":  "32cf285956c7680a9aa10c7bf4e5a8397e8377decc4f18090281a6802d52d51a",
     "notes":  "Update Blog Auto keyword sheet, Claude effort handling, and draft document controls while keeping remote-work login session access."
 }
