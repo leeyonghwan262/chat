@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.08.3",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.08.3.zip",
-    "sha256":  "ca8ca567f97d6792b218bbf0beb030b5cdc560387a3575bb7f37a15349fdbc81",
-    "notes":  "Update Blog Auto six-keyword cycle, GPT style wait, and browser tab reuse while keeping remote-work login session access."
+    "version":  "2026.06.08.4",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.08.4.zip",
+    "sha256":  "57abfc2129dff41f8d352573e848676b41047840087711b9546c89bfd29babc7",
+    "notes":  "Update Blog Auto local info stage, Claude usage fallback, two-cycle scheduling, and 188 templates while keeping remote-work login session access."
 }
