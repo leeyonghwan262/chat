@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.08.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.08.1.zip",
-    "sha256":  "322def9407ca494401eed7058e45e55bb4b3b8a0f5dd2fce558eec8427e4ae22",
-    "notes":  "Update Blog Auto transfer export, staged rerun, and retry handling while keeping remote-work login session access."
+    "version":  "2026.06.08.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.08.2.zip",
+    "sha256":  "2b2df84c36052df00aa81f02fd52f81ef281ab7f72c87b16f1b4da2501e05556",
+    "notes":  "Update Blog Auto browser wait handling and Claude progress recovery while keeping remote-work login session access."
 }
