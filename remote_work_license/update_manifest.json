@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.08.5",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.08.5.zip",
-    "sha256":  "2b25fe83cf1ea87e262da44be820420dd8d313aae0ddcf0666266cef8af28d51",
-    "notes":  "Update Blog Auto local info stage, Claude usage fallback, two-cycle scheduling, 188 templates, and GitHub template sync URL while keeping remote-work login session access."
+    "version":  "2026.06.08.6",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.08.6.zip",
+    "sha256":  "9bae08c9d5a9beaf9f9d3b1d3506c271984ad6b1825b25c89fdda5953de5c40d",
+    "notes":  "Update Blog Auto templates to 190 entries and keep GitHub template sync with remote-work login session access."
 }
