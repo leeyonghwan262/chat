@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.08.6",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.08.6.zip",
-    "sha256":  "9bae08c9d5a9beaf9f9d3b1d3506c271984ad6b1825b25c89fdda5953de5c40d",
-    "notes":  "Update Blog Auto templates to 190 entries and keep GitHub template sync with remote-work login session access."
+    "version":  "2026.06.09.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.09.1.zip",
+    "sha256":  "2cc6559bd8315387344b2e9b29eac83df89d3a67a1969d9028dd0fe4eefd0c8f",
+    "notes":  "Update Blog Auto saved-stage resume flow and deferred reset handling while keeping GitHub template sync with remote-work login session access."
 }
