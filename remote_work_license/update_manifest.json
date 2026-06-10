@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.10.2",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.10.2.zip",
-    "sha256":  "f28dc284d0fe3c2f79dc06175f4d24bd59ae8d02b10942f5c3964676f95990d5",
-    "notes":  "Fix Program Router session scope and rebuild Prompt Generator runtime bundle."
+    "version":  "2026.06.10.3",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.10.3.zip",
+    "sha256":  "a0d2e8b47c48c3fd32c181892b518c221511f2c9fb3e2ae64080e75885d65872",
+    "notes":  "Update Blog Auto templates and GitHub template auto-sync."
 }
