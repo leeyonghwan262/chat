@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.10.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.10.1.zip",
-    "sha256":  "f75125771b6d44bb66e4a038e5e99c54a4a4ed5c561a46fd0bdd9ac0585fb5ee",
-    "notes":  "Update Blog Auto GPT usage-limit fallback, status browser switching, and appdata templates while keeping remote-work login session access."
+    "version":  "2026.06.10.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.10.2.zip",
+    "sha256":  "f28dc284d0fe3c2f79dc06175f4d24bd59ae8d02b10942f5c3964676f95990d5",
+    "notes":  "Fix Program Router session scope and rebuild Prompt Generator runtime bundle."
 }
