@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.10.3",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.10.3.zip",
-    "sha256":  "a0d2e8b47c48c3fd32c181892b518c221511f2c9fb3e2ae64080e75885d65872",
-    "notes":  "Update Blog Auto templates and GitHub template auto-sync."
+    "version":  "2026.06.11.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.11.1.zip",
+    "sha256":  "47c973c5b1b7222f27e109cb3001889248cad37bce0e84a77a6cdaaed1359ca6",
+    "notes":  "Update Blog Auto GPT-5.5 model handling and analysis truncation checks."
 }
