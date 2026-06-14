@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.12.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.12.1.zip",
-    "sha256":  "3356228d8498890ff53c8a7f27eda1a25d58aae28b33310e7fa648417874f269",
-    "notes":  "Update Blog Auto Claude model menu handling."
+    "version":  "2026.06.14.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.14.1.zip",
+    "sha256":  "7cf252d2cb41d805ef7c1b2222650f41e408c794d19c1a925d11199cda18dd8d",
+    "notes":  "Update Blog Auto GPT model levels and status session filtering."
 }
