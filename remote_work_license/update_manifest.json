@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.14.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.14.1.zip",
-    "sha256":  "7cf252d2cb41d805ef7c1b2222650f41e408c794d19c1a925d11199cda18dd8d",
-    "notes":  "Update Blog Auto GPT model levels and status session filtering."
+    "version":  "2026.06.16.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.1.zip",
+    "sha256":  "d02c731c8162a2e804380b1f60d294aebbd42401f227ed7c7cf6087134bcac5b",
+    "notes":  "Update Blog Auto automation reliability fixes."
 }
