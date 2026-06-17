@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.16.8",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.8.zip",
-    "sha256":  "9f330a75db58eb5d35352e99690298d0f949f675e4b7438998c0ccab8c1824e8",
-    "notes":  "Reuse router login sessions and speed up routed launches."
+    "version":  "2026.06.16.9",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.9.zip",
+    "sha256":  "d621e4b39218062e6c300fc771b9b5c69653c89996b66431aa57432ee53f95b2",
+    "notes":  "Skip internal app passwords when launched from the router session."
 }
