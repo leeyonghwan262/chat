@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.16.6",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.6.zip",
-    "sha256":  "ea2e06399b7108b2aaacc96b3d0278728d063a5ab55ae92586e4da20ec167b05",
-    "notes":  "Allow Blog Auto managed user-data paths during preflight checks."
+    "version":  "2026.06.16.7",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.7.zip",
+    "sha256":  "42aa8a58bc3e60f67b99b7337aaf83bfb774976b639fe10e5edaaa03d59805a5",
+    "notes":  "Fix prompt generator and image laundry launch paths."
 }
