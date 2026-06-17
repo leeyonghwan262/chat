@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.16.7",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.7.zip",
-    "sha256":  "42aa8a58bc3e60f67b99b7337aaf83bfb774976b639fe10e5edaaa03d59805a5",
-    "notes":  "Fix prompt generator and image laundry launch paths."
+    "version":  "2026.06.16.8",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.8.zip",
+    "sha256":  "9f330a75db58eb5d35352e99690298d0f949f675e4b7438998c0ccab8c1824e8",
+    "notes":  "Reuse router login sessions and speed up routed launches."
 }
