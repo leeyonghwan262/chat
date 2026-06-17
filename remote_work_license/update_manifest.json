@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.16.9",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.9.zip",
-    "sha256":  "d621e4b39218062e6c300fc771b9b5c69653c89996b66431aa57432ee53f95b2",
-    "notes":  "Skip internal app passwords when launched from the router session."
+    "version":  "2026.06.16.10",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.10.zip",
+    "sha256":  "0b4f9f934579c5fc1eae88a643717f0527c5886cd9e52d4df0a6475243601cc8",
+    "notes":  "Cache update checks and support bundled first install packages."
 }
