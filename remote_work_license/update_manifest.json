@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.16.4",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.4.zip",
-    "sha256":  "b84f0348aacd148ab26cbd31f5f191d8e197ccb291f34eb7ac86f6d16f33c467",
-    "notes":  "Prepare only the selected program runtime and fix Image Laundry/Hotkey first-run launches."
+    "version":  "2026.06.16.5",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.5.zip",
+    "sha256":  "7536f6ce3f11dfadbc19ecdcfa0042acd8f2f4c1b73e65a2fb1ab3e04db9242c",
+    "notes":  "Update Blog Auto automation flow and completion detection timing."
 }
