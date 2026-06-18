@@ -1,6 +1,6 @@
 {
-    "version":  "2026.06.16.10",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.10.zip",
-    "sha256":  "0b4f9f934579c5fc1eae88a643717f0527c5886cd9e52d4df0a6475243601cc8",
-    "notes":  "Cache update checks and support bundled first install packages."
+    "version":  "2026.06.16.11",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.06.16.11.zip",
+    "sha256":  "70984d1954a39d034d4937389a1c84a4ba74b7d5f5ace7b9aba86a0150039079",
+    "notes":  "Update Blog Auto and keep routed program password bypass."
 }
