@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.06.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.06.1.zip",
-    "sha256":  "08c658f38108b9e389c6d943e1be6e1ec9ee3e45b519b73b13339ae63882e005",
-    "notes":  "Update Image Laundry program."
+    "version":  "2026.07.07.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.07.1.zip",
+    "sha256":  "af144f4bebc923944855e2658f380c25128bdf064dbc07b78aa062b6574daf51",
+    "notes":  "Update Blog Auto program and templates."
 }
