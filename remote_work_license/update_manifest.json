@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.07.3",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.07.3.zip",
-    "sha256":  "2090a83c2c2d46393deb166a7c6db8f87d8fd41a3bf868f488965afae7d559e6",
-    "notes":  "Add blog text extractor and blog photo saver."
+    "version":  "2026.07.07.4",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.07.4.zip",
+    "sha256":  "5624b1da6018a5c7210663c33459cbebc9b190a0dd145f7de256affe225adfb1",
+    "notes":  "Force fresh update checks and include blog extractor tools."
 }
