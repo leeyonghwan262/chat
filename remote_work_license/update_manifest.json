@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.08.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.08.1.zip",
-    "sha256":  "76ae509667018d02067a52a9e154867ae3c2bad7807a9c1baa49a8a4a9a01945",
-    "notes":  "Update Blog Auto reliability and browser slot handling."
+    "version":  "2026.07.08.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.08.2.zip",
+    "sha256":  "32ba8a15ca9bd9eea6ae3982c22f617a61723e80c0d1e22a7cd6068ac769b5a3",
+    "notes":  "Update Blog Auto GPT fallback handling and templates."
 }
