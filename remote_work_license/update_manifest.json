@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.08.3",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.08.3.zip",
-    "sha256":  "be1821c2bffcf93580189d3a087e10eeb271c777e9b95369af716e016765d5eb",
-    "notes":  "Fix Blog Text Extractor save behavior."
+    "version":  "2026.07.09.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.09.1.zip",
+    "sha256":  "eb07fec27f5b847b92b17fc2b65b675075b67abfd09d7e429724fa2c5df7b88f",
+    "notes":  "Update Blog Auto place review completion handling and templates."
 }
