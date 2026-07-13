@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.13.3",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.13.3.zip",
-    "sha256":  "7ca2716955341e6561fefaf54fcb2ee357656e7e281551ce89c9c4f8937bdce2",
-    "notes":  "Repair duplicate saved blog URLs that prevented the exposure checker from starting."
+    "version":  "2026.07.13.4",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.13.4.zip",
+    "sha256":  "619b9a2056245101d5f72a223759bf977f0d7d25a117525f0dc00513e4bbda2f",
+    "notes":  "Harden exposure checker startup recovery and show launch errors instead of closing silently."
 }
