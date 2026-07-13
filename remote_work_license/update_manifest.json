@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.13.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.13.1.zip",
-    "sha256":  "6eeaad0d6cd2b7ce946ee4d5eddbccdf38aef05230a7f6a92bf9c566c7973258",
-    "notes":  "Strengthen Naver blog exposure ranking checks and rate-limit handling."
+    "version":  "2026.07.13.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.13.2.zip",
+    "sha256":  "da7f3c2f6f18a8681b9576f4a5762ddb61eb8428a7f9ef792530168c50e0a533",
+    "notes":  "Repair the employee blog exposure checker runtime and add browser fallback for blocked Naver searches."
 }
