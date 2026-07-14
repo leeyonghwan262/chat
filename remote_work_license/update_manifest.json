@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.14.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.14.1.zip",
-    "sha256":  "df420a2efe694decade160b974e1952aea51152b87c52a5c1a221925bf2039a0",
-    "notes":  "Add Photo Distributor to the employee router and provide launcher number 14."
+    "version":  "2026.07.14.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.14.2.zip",
+    "sha256":  "4d1fd143958194130ff09781a55ddfeceb9b12b9e1df3ee59cc113baae16e6df",
+    "notes":  "Use the installed or bundled employee package without public GitHub access."
 }
