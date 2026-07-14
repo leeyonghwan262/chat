@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.13.5",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.13.5.zip",
-    "sha256":  "c6933d135687cd4e07ca4d5cf439ca2ab85856ef70aabd7ef98c4dc605c53daf",
-    "notes":  "Monitor hidden program launches, restore the router on failure, and open a desktop error report automatically."
+    "version":  "2026.07.14.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.14.1.zip",
+    "sha256":  "df420a2efe694decade160b974e1952aea51152b87c52a5c1a221925bf2039a0",
+    "notes":  "Add Photo Distributor to the employee router and provide launcher number 14."
 }
