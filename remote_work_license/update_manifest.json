@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.14.2",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.14.2.zip",
-    "sha256":  "4d1fd143958194130ff09781a55ddfeceb9b12b9e1df3ee59cc113baae16e6df",
-    "notes":  "Use the installed or bundled employee package without public GitHub access."
+    "version":  "2026.07.16.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.07.16.1.zip",
+    "sha256":  "d3b241320498c796a3a85a836d75607d16be4ae87c4cefb88c374502a480fa70",
+    "notes":  "Upgrade Photo Distributor with automatic destination-folder creation and restore public update checks."
 }
