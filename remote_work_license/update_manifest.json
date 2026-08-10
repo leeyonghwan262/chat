@@ -1,6 +1,6 @@
 {
-    "version":  "2026.08.10.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.08.10.1.zip",
-    "sha256":  "580a30b025375ee268d851ed2249fb5f3cf09de001741545a01f529660dd2e99",
-    "notes":  "Keep AI image metadata working with a low-cost OpenAI model and local fallback for credit, key, or network failures."
+    "version":  "2026.08.11.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.08.11.1.zip",
+    "sha256":  "d653f34a60d37d2342f5aa471a481387f8d8c3da210e6d29f7042d7a0c36f493",
+    "notes":  "Share the bundled Naver DataLab credentials with the blog exposure checker and fall back to direct search when Search API authorization fails."
 }
