@@ -1,6 +1,6 @@
 {
-    "version":  "2026.08.12.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.08.12.1.zip",
-    "sha256":  "fbd81e830d077ca63f1bfd4649d53085896f694019555225f1cfaffca76818a9",
+    "version":  "2026.08.12.2",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.08.12.2.zip",
+    "sha256":  "6f1faaf6b73e091dce6946d7b765bfcb4ced45e6941fc25e4bba8ecfd7b50878",
     "notes":  "Repair AI metadata startup, add offline Python dependencies, and preserve local metadata generation when OpenAI is unavailable."
 }
