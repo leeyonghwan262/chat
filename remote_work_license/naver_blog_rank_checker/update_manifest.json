@@ -1,0 +1,7 @@
+{
+  "version": "2.9.2026.09.14.1",
+  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.14.1.zip",
+  "sha256": "56152449fb953c99e8a407353c6e31ab37e18abc562c8b51d54815491ffda95f",
+  "executable": "NaverBlogChecker.exe",
+  "notes": "Initial Remote Work Access distribution of Naver Blog Rank Checker 2.9."
+}
