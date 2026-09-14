@@ -1,6 +1,6 @@
 {
-    "version":  "2026.09.14.4",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.14.4.zip",
-    "sha256":  "7d8155d69a896074e35c6c70b97156372f4a8dd643589e7862abd7441a2a1915",
-    "notes":  "Preserve installed program runtimes during updates and show repair progress immediately."
+    "version":  "2026.09.14.5",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.14.5.zip",
+    "sha256":  "a10fa26c20e1922eaf300cdf672f5861f72e01a0f1a9556b725db51871ebd4c2",
+    "notes":  "Ship the latest Blog Auto code, preserve employee data and runtimes, and repair dependencies with live progress."
 }
