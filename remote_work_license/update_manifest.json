@@ -1,6 +1,6 @@
 {
-    "version":  "2026.09.14.2",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.14.2.zip",
-    "sha256":  "831f0b0cc960fb70ea44f2cefe8e740b3ff9075dc65ce37bca4960ee378a9d18",
-    "notes":  "Add Naver Blog Rank Checker 2.9 with shared router login and a separately updatable employee package."
+    "version":  "2026.09.14.3",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.14.3.zip",
+    "sha256":  "b689db29bdc3fe25fb34fe498556982eb165f86de655e3efeb921c852b82eaf6",
+    "notes":  "Fix the Naver Blog Rank Checker screenshot folder path and refresh its package immediately."
 }
