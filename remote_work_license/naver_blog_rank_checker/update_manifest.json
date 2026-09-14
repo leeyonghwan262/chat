@@ -1,7 +1,7 @@
 {
-  "version": "2.9.2026.09.14.2",
-  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.14.2.zip",
-  "sha256": "394394003cd474dd3e30313b5a8a2aac2e294c96ee0928f5683a855d7334b54f",
+  "version": "2.9.2026.09.14.3",
+  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.14.3.zip",
+  "sha256": "a6fa3d754103f832ef0565c60a3d113fa1a65378ce5c16d1b72bfa52380ad52c",
   "executable": "NaverBlogChecker.exe",
-  "notes": "Create and validate the dated screenshot folder before saving or opening it."
+  "notes": "Apply 13 confirmed keyword corrections, remove company-name heading markers, and count integrated website-block results as exposure without promoting web-tab-only ranks."
 }
