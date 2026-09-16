@@ -1,7 +1,7 @@
 {
-  "version": "1.6.2026.09.15.1",
-  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/packages/ThumbnailStudio_1.6_2026.09.15.1.zip",
-  "sha256": "5317d3ac63e0662ded5239af74ec2fbcf1261464e06b06db01c963ff9a65b032",
+  "version": "1.7.2026.09.16.1",
+  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/packages/ThumbnailStudio_1.7_2026.09.16.1.zip",
+  "sha256": "c9213ffba8c5edaa305029c9ef0166f86dd7a77e212bda30e3f4628a1ed1be78",
   "executable": "ThumbnailMaker.exe",
-  "notes": "Adds 26 PSD designs and selectable oil company contact numbers."
+  "notes": "GIF thumbnails; all 33 designs selectable across companies, including 26 additional PSDs; oil contacts and portable font fallback."
 }

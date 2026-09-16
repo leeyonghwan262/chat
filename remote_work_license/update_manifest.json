@@ -1,6 +1,6 @@
 {
-    "version":  "2026.09.14.6",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.14.6.zip",
-    "sha256":  "c59b51592a132d97441d87720b9fad88baec5248afbb9d5a7b221e7d7e75405b",
-    "notes":  "Harden employee launch errors, browser routing, prompt updates, temporary files, and package updates."
+    "version":  "2026.09.16.1",
+    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.16.1.zip",
+    "sha256":  "3b7c994ebdf4f64662db6fcebd2e98561d3b3ecb4e373469d5fdf500808c97ab",
+    "notes":  "Check Thumbnail Studio updates at every launch; GIF thumbnails, all 33 designs, and portable font fallback. Other work programs remain unchanged."
 }
