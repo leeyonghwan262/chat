@@ -1,7 +1,7 @@
 {
-  "version": "1.7.2026.09.16.1",
-  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/packages/ThumbnailStudio_1.7_2026.09.16.1.zip",
-  "sha256": "c9213ffba8c5edaa305029c9ef0166f86dd7a77e212bda30e3f4628a1ed1be78",
+  "version": "1.8.2026.09.16.2",
+  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/packages/ThumbnailStudio_1.8_2026.09.16.2.zip",
+  "sha256": "de1f324c3106941ce332530fd737c447298864c68560ecb382d9ca75865bb517",
   "executable": "ThumbnailMaker.exe",
-  "notes": "GIF thumbnails; all 33 designs selectable across companies, including 26 additional PSDs; oil contacts and portable font fallback."
+  "notes": "Hancar JPG/PNG; other companies animated GIF; Goldhand Before/After photos and aligned emphasis; pest PSD typography and title strokes. Other programs unchanged."
 }

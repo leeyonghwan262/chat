@@ -1,6 +1,6 @@
 {
-    "version":  "2026.09.16.1",
-    "zip_url":  "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.16.1.zip",
-    "sha256":  "3b7c994ebdf4f64662db6fcebd2e98561d3b3ecb4e373469d5fdf500808c97ab",
-    "notes":  "Check Thumbnail Studio updates at every launch; GIF thumbnails, all 33 designs, and portable font fallback. Other work programs remain unchanged."
+  "version": "2026.09.16.2",
+  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.16.2.zip",
+  "notes": "Hancar JPG/PNG; other companies animated GIF; Goldhand Before/After photos and aligned emphasis; pest PSD typography and title strokes. Other programs unchanged.",
+  "sha256": "ee82b47ab8e160e316c64b07f6b6b281e9e1a3edff75e14e21044cbb754547df"
 }
