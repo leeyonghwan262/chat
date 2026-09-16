@@ -1,7 +1,7 @@
 {
-  "version": "1.8.2026.09.16.2",
-  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/packages/ThumbnailStudio_1.8_2026.09.16.2.zip",
-  "sha256": "de1f324c3106941ce332530fd737c447298864c68560ecb382d9ca75865bb517",
+  "version": "2.0.2026.09.17.1",
+  "zip_url": "https://github.com/leeyonghwan262/chat/releases/download/thumbnail-v2.0-2026.09.17.1/ThumbnailStudio_2.0_2026.09.17.1.zip",
+  "sha256": "4ce491e02fdfcdf6dc1c7ece4b6788e3d430921f905ca9454578b868ba161115",
   "executable": "ThumbnailMaker.exe",
-  "notes": "Hancar JPG/PNG; other companies animated GIF; Goldhand Before/After photos and aligned emphasis; pest PSD typography and title strokes. Other programs unchanged."
+  "notes": "Thumbnail Studio 2.0: reusable layer editor, PSD/text import, data-bound templates, company-wide design application and batch export. Existing login, company output formats and all other programs unchanged."
 }
