@@ -1,0 +1,60 @@
+{
+  "signature": "thumbnail-studio-template-v1",
+  "name": "폐유 · SD 시안 4",
+  "template_id": "psd_oil_sd_4",
+  "base": "builtin",
+  "assets": {},
+  "layers": [
+    {
+      "id": "5c7b96763adf429890e4277557c2751c",
+      "kind": "caption",
+      "name": "지역 / 수거 제목",
+      "box": [
+        20.0,
+        90.0,
+        960.0,
+        165.0
+      ],
+      "visible": true,
+      "locked": false,
+      "opacity": 100,
+      "angle": 0.0,
+      "binding": "title",
+      "text": "태백 폐식용유 수거",
+      "font": "GmarketSansTTFBold",
+      "font_size": 82.0,
+      "fill": "#ffffff",
+      "stroke": 0,
+      "stroke_fill": "#111111",
+      "background": "",
+      "align": "right",
+      "animate": true,
+      "accent": "#ffe33c",
+      "fit": "cover",
+      "zoom": 1,
+      "anchor_x": 0.5,
+      "anchor_y": 0.5,
+      "min_font_size": 20.0,
+      "max_lines": 6.0,
+      "group": "",
+      "protected": false,
+      "field": "title",
+      "original": true
+    }
+  ],
+  "photo": {
+    "brightness": 1.0,
+    "contrast": 1.0,
+    "color": 1.0
+  },
+  "flip": false,
+  "canvas": [
+    1000,
+    1000
+  ],
+  "duration_ms": 700,
+  "library_ref": {
+    "id": "psd_oil_sd_4",
+    "version": 1
+  }
+}

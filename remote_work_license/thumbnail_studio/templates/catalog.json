@@ -1,0 +1,244 @@
+{
+  "payload": {
+    "schema": 1,
+    "version": "2026.09.17.2",
+    "min_engine": [
+      3,
+      0
+    ],
+    "templates": [
+      {
+        "id": "goldhand",
+        "name": "황금손 · 샷시 수리",
+        "version": 1,
+        "sha256": "9dbb4c1b09fd965f564ef2ce9e5f674152b0f0383d008e2150a3f3d17dc807d0",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/goldhand.thumbtemplate"
+      },
+      {
+        "id": "hancar",
+        "name": "한카 · 자동차 유리",
+        "version": 1,
+        "sha256": "c76c9daf0b14df00e6e187c0f7d2be3937055b62b897b12d8ce4e9c014a42c9a",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/hancar.thumbtemplate"
+      },
+      {
+        "id": "kyl",
+        "name": "KYL · 법률사무소",
+        "version": 1,
+        "sha256": "8466e614f23b6a1d17a760f327a74848dc074d3aea874a3512f6ff5896ef55dd",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/kyl.thumbtemplate"
+      },
+      {
+        "id": "oil",
+        "name": "박군 · 폐유 수거",
+        "version": 1,
+        "sha256": "62c925430c7fcd6726e4af636467df69e28af7e172f981e343f4038bc418a16d",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/oil.thumbtemplate"
+      },
+      {
+        "id": "psd_apartment_washer",
+        "name": "아파트관리 · 고압세척기",
+        "version": 1,
+        "sha256": "47cc5e83f6bd9f83f1cc8e8679e4325fc4e9866835790afff98aade616284884",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_apartment_washer.thumbtemplate"
+      },
+      {
+        "id": "psd_demolition",
+        "name": "대진철거 · 원상복구",
+        "version": 1,
+        "sha256": "d535d34da4c04757c5bc6506a7e6c680e605dec05be7494bd95eceab7fcac9c6",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_demolition.thumbtemplate"
+      },
+      {
+        "id": "psd_goldhand",
+        "name": "황금손 · 샷시 수리 PSD 시안",
+        "version": 1,
+        "sha256": "06dac002e9150a422c0c2236a537f82a72f273bb4fd31dcdb586aac5b7d6bd63",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_goldhand.thumbtemplate"
+      },
+      {
+        "id": "psd_goldhand_compare",
+        "name": "황금손 · Before/After",
+        "version": 1,
+        "sha256": "6441f839140deb2f4a04ab858d2ba96c77d555a0a04b58af7899d6d6ae8a4c5d",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_goldhand_compare.thumbtemplate"
+      },
+      {
+        "id": "psd_hancar",
+        "name": "한카 · 쏘나타 유리교체",
+        "version": 1,
+        "sha256": "fadcaaf582c3cd2e1ada002dc9ad93ef7751c0f69cddbcb8cf088de9ae1498c3",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_hancar.thumbtemplate"
+      },
+      {
+        "id": "psd_hostel",
+        "name": "숙박업 · 호스텔 창업",
+        "version": 1,
+        "sha256": "a93954918b75f0b509cc98c9d11ee24235e9fd13cc691568283827649e61cb31",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_hostel.thumbtemplate"
+      },
+      {
+        "id": "psd_jacuzzi",
+        "name": "숙박업 · 자쿠지 인테리어",
+        "version": 1,
+        "sha256": "ce4ad1a686b9a3d0c4b084b761655e80512207d183db4791163bb89d9e11a195",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_jacuzzi.thumbtemplate"
+      },
+      {
+        "id": "psd_kyl",
+        "name": "KYL · 상간남 소송 PSD 시안",
+        "version": 1,
+        "sha256": "3a765e26be60970c0aad1ac31892bc22e692c420a69164d59f807c445ebd056a",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_kyl.thumbtemplate"
+      },
+      {
+        "id": "psd_mj",
+        "name": "MJ · 건설현장 고압세척기",
+        "version": 1,
+        "sha256": "6ca0d388ac9230af05be4a9af3f84fc14f9e9b4e7d1b0c6975127b5876e23371",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_mj.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_jini_1",
+        "name": "폐유 · 지니에너지 시안 1",
+        "version": 1,
+        "sha256": "a9e1515c7b5951aa88e0da043716c606d7b1f4f8327cc60d8935a57ecf653e9e",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_jini_1.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_jini_2",
+        "name": "폐유 · 지니에너지 시안 2",
+        "version": 1,
+        "sha256": "f4259cd4243cbbc58d9c02b94ced7fddfe0b043fb9e9082123754a1e3577ac0f",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_jini_2.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_mny_1",
+        "name": "폐유 · MNY 시안 1",
+        "version": 1,
+        "sha256": "370661b5c2f4cce64826336752c420a3a7801bfa52d36dd04cce1e5db63b2b84",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_mny_1.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_mny_2",
+        "name": "폐유 · MNY 시안 2",
+        "version": 1,
+        "sha256": "75c92bf3165ff081621a8a4b116363bade3514d9dd55b7dbfe97035b1e8507f9",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_mny_2.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_parkgun_1",
+        "name": "폐유 · 박군 시안 1",
+        "version": 1,
+        "sha256": "8134114c0e15f48089d6869c7e663e16f359857a0c85e810e0c74abf915f7404",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_parkgun_1.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_parkgun_2",
+        "name": "폐유 · 박군 시안 2",
+        "version": 1,
+        "sha256": "fcc692836148a9cf39aef874c5b09760276b71595458959f1761c7c197e14f3d",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_parkgun_2.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_sd_1",
+        "name": "폐유 · SD 시안 1",
+        "version": 1,
+        "sha256": "889d1b3354c4353f60022cea8ecba8e0563ea88ca1d434d31b6dda99d80300d2",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_sd_1.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_sd_2",
+        "name": "폐유 · SD 시안 2",
+        "version": 1,
+        "sha256": "9e583a48b8adca676f9fc98e8e9297bb1e15476fe88f0e25a7003fdead089a72",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_sd_2.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_sd_3",
+        "name": "폐유 · SD 시안 3",
+        "version": 1,
+        "sha256": "0f3470502f5563e32ba2a053b99fe4fed5fb8ba7ee9111e5b8e32cc364fdc169",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_sd_3.thumbtemplate"
+      },
+      {
+        "id": "psd_oil_sd_4",
+        "name": "폐유 · SD 시안 4",
+        "version": 1,
+        "sha256": "2ccaee9634e51e370ed2c6c7394f5a00f9c8d5879c68e662990e9db26b35f821",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_oil_sd_4.thumbtemplate"
+      },
+      {
+        "id": "psd_pest",
+        "name": "자바맨 · 방역업체",
+        "version": 1,
+        "sha256": "302093fa7aaa9fa31e9abf604b4a09d0a5b229e66e51c4303f29ccdffb32cbf6",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_pest.thumbtemplate"
+      },
+      {
+        "id": "psd_scalp",
+        "name": "두피문신 · 후기",
+        "version": 1,
+        "sha256": "0ac7fcb616ce496c80958751b89e9e79663985aa9e1f726c7eecccb5f693345c",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_scalp.thumbtemplate"
+      },
+      {
+        "id": "psd_tax",
+        "name": "세무사 · 기장 관리",
+        "version": 1,
+        "sha256": "179ba2643a8ce91e1c223c8fa078c37d71244639d3396e2e4ea41438e56dbe1b",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_tax.thumbtemplate"
+      },
+      {
+        "id": "psd_tesway_door",
+        "name": "테스웨이 · 무선오토도어핸들",
+        "version": 1,
+        "sha256": "327b9b2d3f59c4f82b2f89e05bee9c5bf0c1009105d18ee1a30189cba29c2daf",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_tesway_door.thumbtemplate"
+      },
+      {
+        "id": "psd_tesway_frunk",
+        "name": "테스웨이 · 오토프렁크 PSD 시안",
+        "version": 1,
+        "sha256": "8207cce0f5b5e14749b07d9e4b95beb226797c79b0023bef5ae40ef4435de1b9",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_tesway_frunk.thumbtemplate"
+      },
+      {
+        "id": "psd_tf",
+        "name": "TF 금융범죄 · PSD 시안",
+        "version": 1,
+        "sha256": "e51e33bbf19cf344ab3d39daebb7cefe7274d217ed67077d4ae5dcecc9fe5756",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_tf.thumbtemplate"
+      },
+      {
+        "id": "psd_vmfactory",
+        "name": "VM팩토리 · 하체 교환 PSD 시안",
+        "version": 1,
+        "sha256": "776b899ab73c2be55f40dcedc78e76e62a8a643e0e464744a059ca2cf3a90d7b",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/psd_vmfactory.thumbtemplate"
+      },
+      {
+        "id": "tesway",
+        "name": "테스웨이 · 테슬라 시공",
+        "version": 1,
+        "sha256": "3502cd3f234191653ca0bff3f46ac021256b31cd2f2cb51ae5109b4afb552128",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/tesway.thumbtemplate"
+      },
+      {
+        "id": "tf",
+        "name": "TF · 금융범죄 대응",
+        "version": 1,
+        "sha256": "dd193a0542c5693b35488a495cd87e428431529b2e98e32ebc0fee52c89eeb05",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/tf.thumbtemplate"
+      },
+      {
+        "id": "vmfactory",
+        "name": "VM팩토리 · 자동차 정비",
+        "version": 1,
+        "sha256": "6f7025ca3bc23f17d03f4f82bc657284fe80ed996594078e72a04933a8505b90",
+        "url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/thumbnail_studio/templates/vmfactory.thumbtemplate"
+      }
+    ]
+  },
+  "signature": "4pwZY9f5JKxoRPMjFD6Mnp2WrkSNU9Ui0gbY8Y1lsmINPfUqJfY6JbMjDJsAi8+33R0m6PTuCtyrTtyI++MNCA=="
+}

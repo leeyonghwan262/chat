@@ -1,0 +1,2 @@
+# Signed catalog hashes cover the exact distributed bytes.
+*.thumbtemplate -text

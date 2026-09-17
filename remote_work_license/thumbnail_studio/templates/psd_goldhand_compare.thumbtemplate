@@ -1,0 +1,60 @@
+{
+  "signature": "thumbnail-studio-template-v1",
+  "name": "황금손 · Before/After",
+  "template_id": "psd_goldhand_compare",
+  "base": "builtin",
+  "assets": {},
+  "layers": [
+    {
+      "id": "18b171f89c7648c886ecfaa6d8021c80",
+      "kind": "caption",
+      "name": "작업명",
+      "box": [
+        77.0,
+        60.0,
+        666.0,
+        48.0
+      ],
+      "visible": true,
+      "locked": false,
+      "opacity": 100,
+      "angle": 0.0,
+      "binding": "title",
+      "text": "샷시수리",
+      "font": "GmarketSansTTFBold",
+      "font_size": 42.0,
+      "fill": "#ffffff",
+      "stroke": 0,
+      "stroke_fill": "#111111",
+      "background": "",
+      "align": "right",
+      "animate": true,
+      "accent": "#ffe33c",
+      "fit": "cover",
+      "zoom": 1,
+      "anchor_x": 0.5,
+      "anchor_y": 0.5,
+      "min_font_size": 20.0,
+      "max_lines": 6.0,
+      "group": "",
+      "protected": false,
+      "field": "title",
+      "original": true
+    }
+  ],
+  "photo": {
+    "brightness": 1.0,
+    "contrast": 1.0,
+    "color": 1.0
+  },
+  "flip": false,
+  "canvas": [
+    1000,
+    1000
+  ],
+  "duration_ms": 700,
+  "library_ref": {
+    "id": "psd_goldhand_compare",
+    "version": 1
+  }
+}

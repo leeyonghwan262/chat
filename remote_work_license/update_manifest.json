@@ -1,6 +1,6 @@
 {
-  "version": "2026.09.17.1",
-  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.17.1.zip",
-  "notes": "Thumbnail Studio 2.0: reusable layer editor, PSD/text import, data-bound templates, company-wide design application and batch export. Existing login, company output formats and all other programs unchanged.",
-  "sha256": "f11436fcb71d02fad1ec1321ad67ee66d94b5c079281323bacf3a8cc5081894b"
+  "version": "2026.09.17.2",
+  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/packages/Remote_Work_Access_app_2026.09.17.2.zip",
+  "notes": "Thumbnail Studio 3.0: editable PSD layers, cleaner views, production table, review approval, autosave and recovery, signed template catalog, company profiles and multi-aspect export. Existing login, company output formats and all other programs unchanged.",
+  "sha256": "844bc492a087c4f1eec78530b63db2eccc7520845f5daa46d93337be2849e0d0"
 }
