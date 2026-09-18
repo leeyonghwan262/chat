@@ -6,7 +6,7 @@
   "assets": {},
   "layers": [
     {
-      "id": "ea6bdd17b6d948fb9f250967bae96154",
+      "id": "af951c0e2ab542f1babcff0f2b467346",
       "kind": "caption",
       "name": "상단 문구",
       "box": [
@@ -42,7 +42,7 @@
       "original": true
     },
     {
-      "id": "d7039156f067413ba9aaca55e9081494",
+      "id": "5690701ac2bf436285cb0c29835f520a",
       "kind": "caption",
       "name": "큰 제목",
       "box": [
@@ -78,7 +78,7 @@
       "original": true
     },
     {
-      "id": "a8a4be6a09924f42bbf841a54b681610",
+      "id": "08fd2e451d204eef9caa33ccd0a71667",
       "kind": "caption",
       "name": "설명 문구",
       "box": [
@@ -127,6 +127,6 @@
   "duration_ms": 700,
   "library_ref": {
     "id": "psd_pest",
-    "version": 1
+    "version": 2
   }
 }

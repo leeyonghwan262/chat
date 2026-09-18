@@ -1,19 +1,19 @@
 {
   "signature": "thumbnail-studio-template-v1",
-  "name": "폐유 · SD 시안 3",
+  "name": "폐유 · 늘찬 시안 1",
   "template_id": "psd_oil_sd_3",
   "base": "builtin",
   "assets": {},
   "layers": [
     {
-      "id": "e22e021f815c41fdb977f2d357ea59f8",
+      "id": "3ad53629815a4c6791ed7edb964eddb8",
       "kind": "caption",
       "name": "지역 / 수거 제목",
       "box": [
-        20.0,
-        90.0,
-        960.0,
-        165.0
+        40.0,
+        109.0,
+        921.0,
+        134.0
       ],
       "visible": true,
       "locked": false,
@@ -22,13 +22,13 @@
       "binding": "title",
       "text": "양양 폐유 수거",
       "font": "GmarketSansTTFBold",
-      "font_size": 82.0,
+      "font_size": 150.07273113025602,
       "fill": "#ffffff",
       "stroke": 0,
       "stroke_fill": "#111111",
       "background": "",
       "align": "right",
-      "animate": true,
+      "animate": false,
       "accent": "#ffe33c",
       "fit": "cover",
       "zoom": 1,
@@ -55,6 +55,6 @@
   "duration_ms": 700,
   "library_ref": {
     "id": "psd_oil_sd_3",
-    "version": 1
+    "version": 2
   }
 }

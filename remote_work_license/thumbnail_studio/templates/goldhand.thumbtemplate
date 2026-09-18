@@ -6,7 +6,7 @@
   "assets": {},
   "layers": [
     {
-      "id": "9e4a77b7331a4f91bf2ba0f180ad80b0",
+      "id": "0ba1e0173c7840669eb764ff54f66ae9",
       "kind": "caption",
       "name": "지역 / 강조 문구",
       "box": [
@@ -28,7 +28,7 @@
       "stroke_fill": "#111111",
       "background": "#767676",
       "align": "right",
-      "animate": false,
+      "animate": true,
       "accent": "#ffe33c",
       "fit": "cover",
       "zoom": 1,
@@ -42,7 +42,7 @@
       "original": true
     },
     {
-      "id": "417c5659e2af4a0b923e24f0e7955f47",
+      "id": "86ffc46898954b9490a7875a2da19fac",
       "kind": "caption",
       "name": "작업명",
       "box": [
@@ -78,7 +78,7 @@
       "original": true
     },
     {
-      "id": "7846e13029c546498ac03ef49beb52fb",
+      "id": "88c0c0519e784e8185776370203ae1ca",
       "kind": "caption",
       "name": "설명 문구",
       "box": [
@@ -127,6 +127,6 @@
   "duration_ms": 700,
   "library_ref": {
     "id": "goldhand",
-    "version": 1
+    "version": 2
   }
 }

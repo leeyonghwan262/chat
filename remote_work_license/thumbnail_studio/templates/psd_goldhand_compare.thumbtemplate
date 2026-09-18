@@ -6,7 +6,7 @@
   "assets": {},
   "layers": [
     {
-      "id": "18b171f89c7648c886ecfaa6d8021c80",
+      "id": "6a25ff402a464e6784e65ec6a635ebe3",
       "kind": "caption",
       "name": "작업명",
       "box": [
@@ -55,6 +55,6 @@
   "duration_ms": 700,
   "library_ref": {
     "id": "psd_goldhand_compare",
-    "version": 1
+    "version": 2
   }
 }

@@ -6,7 +6,7 @@
   "assets": {},
   "layers": [
     {
-      "id": "3de0e0de8f1944a59ed9919fe891cee7",
+      "id": "c75cd14aecf1407fb0ff13bc29d48932",
       "kind": "caption",
       "name": "지역 / 핵심 주제",
       "box": [
@@ -26,9 +26,9 @@
       "fill": "#ffffff",
       "stroke": 0,
       "stroke_fill": "#111111",
-      "background": "#a48048",
+      "background": "#75c7ed",
       "align": "right",
-      "animate": false,
+      "animate": true,
       "accent": "#ffe33c",
       "fit": "cover",
       "zoom": 1,
@@ -42,7 +42,7 @@
       "original": true
     },
     {
-      "id": "5cf40df42fa74b6cb2e04ae3604eadd6",
+      "id": "a3301f941dfe4a2a94c6826120756813",
       "kind": "caption",
       "name": "주제 / 업무",
       "box": [
@@ -78,7 +78,7 @@
       "original": true
     },
     {
-      "id": "d759389ab1e0460b8b8ce50ae3ae4a42",
+      "id": "634a2095c37d4a05b8d78ef4d0a86308",
       "kind": "caption",
       "name": "설명 문구",
       "box": [
@@ -127,6 +127,6 @@
   "duration_ms": 700,
   "library_ref": {
     "id": "kyl",
-    "version": 1
+    "version": 2
   }
 }

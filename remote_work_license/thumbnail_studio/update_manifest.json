@@ -1,7 +1,7 @@
 {
-  "version": "3.0.2026.09.17.2",
-  "zip_url": "https://github.com/leeyonghwan262/chat/releases/download/thumbnail-v3.0-2026.09.17.2/ThumbnailStudio_3.0_2026.09.17.2.zip",
-  "sha256": "e5cd3340b705ce66c908e43f2f4820e3f04178aea6f41c37dd7f06371248fad8",
+  "version": "3.1.2026.09.18.1",
+  "zip_url": "https://github.com/leeyonghwan262/chat/releases/download/thumbnail-v3.1-2026.09.18.1/ThumbnailStudio_3.1_2026.09.18.1.zip",
+  "sha256": "a98101ba4b4670fee6d597f617c8ddc9cc3adb4adb0b010f4e2946a5c4eb6c76",
   "executable": "ThumbnailMaker.exe",
-  "notes": "Thumbnail Studio 3.0: editable PSD layers, cleaner views, production table, review approval, autosave and recovery, signed template catalog, company profiles and multi-aspect export. Existing login, company output formats and all other programs unchanged."
+  "notes": "Template save/apply repair; measured company layouts; GIF highlights; Neulchan labels; metadata cleanup and compression. Central login unchanged."
 }

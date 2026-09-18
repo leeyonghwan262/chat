@@ -6,7 +6,7 @@
   "assets": {},
   "layers": [
     {
-      "id": "8532383dcb0247c3bc453a689ce09607",
+      "id": "bea9c7a8aefc4be99f8fc90b674dcc63",
       "kind": "caption",
       "name": "지역 / 수거 제목",
       "box": [
@@ -28,7 +28,7 @@
       "stroke_fill": "#111111",
       "background": "",
       "align": "right",
-      "animate": true,
+      "animate": false,
       "accent": "#ffe33c",
       "fit": "cover",
       "zoom": 1,
@@ -55,6 +55,6 @@
   "duration_ms": 700,
   "library_ref": {
     "id": "oil",
-    "version": 1
+    "version": 2
   }
 }

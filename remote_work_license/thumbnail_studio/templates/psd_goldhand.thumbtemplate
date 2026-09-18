@@ -6,7 +6,7 @@
   "assets": {},
   "layers": [
     {
-      "id": "46896616c0474a069aeb791f2176a4a5",
+      "id": "dfaf812a7793406493bfa26278103826",
       "kind": "caption",
       "name": "상단 문구",
       "box": [
@@ -28,7 +28,7 @@
       "stroke_fill": "#111111",
       "background": "#767676",
       "align": "right",
-      "animate": false,
+      "animate": true,
       "accent": "#ffe33c",
       "fit": "cover",
       "zoom": 1,
@@ -42,7 +42,7 @@
       "original": true
     },
     {
-      "id": "0380e6df5d1549a89cbd895ad907465e",
+      "id": "9440f406065e4340b11955b1c06d4069",
       "kind": "caption",
       "name": "큰 제목",
       "box": [
@@ -78,7 +78,7 @@
       "original": true
     },
     {
-      "id": "03c99d24a3cd430cb1ef37a9e1e5cc61",
+      "id": "c0a97274f9534ec1a1febc76d3bb40c6",
       "kind": "caption",
       "name": "설명 문구",
       "box": [
@@ -127,6 +127,6 @@
   "duration_ms": 700,
   "library_ref": {
     "id": "psd_goldhand",
-    "version": 1
+    "version": 2
   }
 }
