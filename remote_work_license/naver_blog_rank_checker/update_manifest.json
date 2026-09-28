@@ -1,7 +1,7 @@
 {
-  "version": "2.9.2026.09.28.1",
-  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.28.1.zip",
-  "sha256": "92d8a68c9b2ee94b2d9fd3fe75c2edd61a25de59d45283f237ab04a6666017e5",
+  "version": "2.9.2026.09.28.2",
+  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.28.2.zip",
+  "sha256": "489fd284644bbbadf785b8ac1ff606bb8a12c27c2d1011e6a3bd4052179bb43f",
   "executable": "NaverBlogChecker.exe",
-  "notes": "Apply five new title-based keyword corrections and preserve earlier confirmed corrections; include title-only ranking checks."
+  "notes": "Apply five new title-based keyword corrections, preserve earlier fixes and title-only checks, and retain screenshot failure feedback."
 }
