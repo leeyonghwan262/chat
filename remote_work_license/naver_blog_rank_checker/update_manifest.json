@@ -1,7 +1,7 @@
 {
-  "version": "2.9.2026.09.14.3",
-  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.14.3.zip",
-  "sha256": "a6fa3d754103f832ef0565c60a3d113fa1a65378ce5c16d1b72bfa52380ad52c",
+  "version": "2.9.2026.09.28.1",
+  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.28.1.zip",
+  "sha256": "92d8a68c9b2ee94b2d9fd3fe75c2edd61a25de59d45283f237ab04a6666017e5",
   "executable": "NaverBlogChecker.exe",
-  "notes": "Apply 13 confirmed keyword corrections, remove company-name heading markers, and count integrated website-block results as exposure without promoting web-tab-only ranks."
+  "notes": "Apply five new title-based keyword corrections and preserve earlier confirmed corrections; include title-only ranking checks."
 }
