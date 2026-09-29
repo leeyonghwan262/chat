@@ -1,7 +1,7 @@
 {
-  "version": "2.9.2026.09.28.2",
-  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.28.2.zip",
-  "sha256": "489fd284644bbbadf785b8ac1ff606bb8a12c27c2d1011e6a3bd4052179bb43f",
+  "version": "2.9.2026.09.29.1",
+  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.29.1.zip",
+  "sha256": "657845236126834ada05b8c259d1199802c13c9a8de7bc1e72913c3cd33660f2",
   "executable": "NaverBlogChecker.exe",
-  "notes": "Apply five new title-based keyword corrections, preserve earlier fixes and title-only checks, and retain screenshot failure feedback."
+  "notes": "Exact Kakao room opening and photo confirmation; verified top results only; persistent per-post work exclusion."
 }
