@@ -1,7 +1,7 @@
 {
-  "version": "3.1.2026.09.18.1",
-  "zip_url": "https://github.com/leeyonghwan262/chat/releases/download/thumbnail-v3.1-2026.09.18.1/ThumbnailStudio_3.1_2026.09.18.1.zip",
-  "sha256": "a98101ba4b4670fee6d597f617c8ddc9cc3adb4adb0b010f4e2946a5c4eb6c76",
+  "version": "3.1.2026.09.29.1",
+  "zip_url": "https://github.com/leeyonghwan262/chat/releases/download/thumbnail-v3.1.2-2026.09.29.1/ThumbnailStudio_3.1.2_2026.09.29.1.zip",
+  "sha256": "e55e9173f9edfc6e6ea28bd03e8d19442963d6b71d7bc72b3d4e403c44a15756",
   "executable": "ThumbnailMaker.exe",
-  "notes": "Template save/apply repair; measured company layouts; GIF highlights; Neulchan labels; metadata cleanup and compression. Central login unchanged."
+  "notes": "Separate normal/emphasis background colors; preserve original fonts during color edits; searchable installed fonts; editable oil contact colors. Existing login and other programs unchanged."
 }
