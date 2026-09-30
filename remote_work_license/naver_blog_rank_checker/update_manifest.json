@@ -1,7 +1,7 @@
 {
-  "version": "2.9.2026.09.29.2",
-  "zip_url": "https://raw.githubusercontent.com/leeyonghwan262/chat/main/remote_work_license/naver_blog_rank_checker/packages/NaverBlogChecker_2.9_2026.09.29.2.zip",
-  "sha256": "bdcda2c1d2c782671799294e5022a952a0c8cb349b797d4d16e22afe78327b27",
+  "version": "2.9.2026.09.30.1",
+  "zip_url": "https://github.com/leeyonghwan262/chat/releases/download/runtime-2026.09.30.1/NaverBlogChecker_2.9_2026.09.30.1.zip",
+  "sha256": "94ab8174ace30beef4376373a5e4fbd87b1974c49f75c73483c548e1a226dee3",
   "executable": "NaverBlogChecker.exe",
-  "notes": "Apply seven confirmed keyword prefixes before broad tail markers; preserve regional service phrases and existing corrections."
+  "notes": "Fix Kakao root/input focus detection without weakening exact-room safeguards. Apply fourteen confirmed keyword corrections, combined extraction/checking, fast verified-top checks and result filters. Refresh extracted keywords to apply the new rules."
 }

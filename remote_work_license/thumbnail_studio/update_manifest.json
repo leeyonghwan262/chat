@@ -1,7 +1,7 @@
 {
-  "version": "3.1.2026.09.29.1",
-  "zip_url": "https://github.com/leeyonghwan262/chat/releases/download/thumbnail-v3.1.2-2026.09.29.1/ThumbnailStudio_3.1.2_2026.09.29.1.zip",
-  "sha256": "e55e9173f9edfc6e6ea28bd03e8d19442963d6b71d7bc72b3d4e403c44a15756",
+  "version": "3.1.2026.09.30.1",
+  "zip_url": "https://github.com/leeyonghwan262/chat/releases/download/runtime-2026.09.30.1/ThumbnailStudio_3.1_2026.09.30.1.zip",
+  "sha256": "af46d40c5da5be061dc57e5f7e31bc653265b78935038b478009662792fb5302",
   "executable": "ThumbnailMaker.exe",
-  "notes": "Separate normal/emphasis background colors; preserve original fonts during color edits; searchable installed fonts; editable oil contact colors. Existing login and other programs unchanged."
+  "notes": "Eight resize handles, rotation and snapping, keyboard nudging, editable pending previews and locked-layer hit testing. Stop subsequent catalog downloads on exit while preserving the current library. Existing company formats, font/color/contact settings and login retained."
 }
